@@ -123,6 +123,7 @@ async function main(){
                 console.log(folder-1)
               await getsongs(folder-1);
               index=folder-1;
+              playMusic(songs1[index][0]);
             })
         })
     }, 1000); // Adjust delay based on when elements are added
