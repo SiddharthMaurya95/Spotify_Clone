@@ -1,6 +1,6 @@
 
 var folder='cs';
-var songs1=[["Munni Badnaam Hui Darling (Female) - Dabangg 320 Kbps.mp3","Tere Mast Mast Do Nain - Dabangg 320 Kbps.mp3"],["Patola - Blackmail 320 Kbps.mp3","Lagdi Lahore Di - Street Dancer 3D 320 Kbps.mp3","High Rated Gabru Guru Randhawa 320 Kbps.mp3"],["[Songs.PK] Ra.One - 15 - Chammak Challo (Remix).mp3"]];
+var songs1=[["Tere Mast Mast Do Nain - Dabangg 320 Kbps.mp3"],["Patola - Blackmail 320 Kbps.mp3","Lagdi Lahore Di - Street Dancer 3D 320 Kbps.mp3","High Rated Gabru Guru Randhawa 320 Kbps.mp3"],["[Songs.PK] Ra.One - 15 - Chammak Challo (Remix).mp3"]];
 var song1="";
 var index=0;
 function convertSecondsToMinSec(seconds) {
